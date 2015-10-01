@@ -1,3 +1,3 @@
 This was to be implemented in Verilog using ModelSim.
 
-![alt text](lab1.png "Description goes here")
+![My image](f2013071.github.com/repository/img/image.jpg)
